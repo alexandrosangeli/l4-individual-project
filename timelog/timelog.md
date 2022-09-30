@@ -1,5 +1,10 @@
 # Project Timelog
 
+- Creating a Server for Protein Domain Prediction Based on Deep Neural Networks
+- Alexandros Angeli 
+- 2392886a
+- Kevin Bryson
+
 ## Week 1
 
 - Submission of biddings.
@@ -16,4 +21,3 @@
   - different Deep Neural Network architectures. (RNNs, LSTMs etc.)
   - studying proteins, protein domains, disordered proteins. (Wikipedia)
   - reading (as much as i can understand) 2 recommended papers.
-
