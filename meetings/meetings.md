@@ -8,5 +8,6 @@
 - What is the input data? Contact information? (from paper)
 - Ask for email to add to GitLab/GitHub.
 - Ask if timelog format looks okay.
+- Does the structure of the repository matter? (template on Moodle?)
 
 ### Minutes
