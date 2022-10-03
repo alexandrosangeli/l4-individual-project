@@ -22,6 +22,8 @@
   - studying proteins, protein domains, disordered proteins. (Wikipedia)
   - reading (as much as i can understand) 2 recommended papers.
 
+## Week 3
+
 ### Mon 03/10/22
 
-- **1.5 hours** Familiarising with PyTorch
+- **1.5 hours** Familiarising with PyTorch.
