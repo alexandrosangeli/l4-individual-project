@@ -21,3 +21,19 @@
 - Protein Domain prediction is not *really* solved yet, there could be some different methods and techniques that could be used.
 - As a L4 project, it doesn't have to be very unique (and would also be difficult to make something very unique), so approaches found in literature could be used.
 - Next meeting: Monday 10th, 14:30-15:30.
+  
+---
+
+## 10/10/22
+
+### Questions
+- Possible (new?) methods/techniques/data to use? (Ideas to combine features e.g. secondary structure, sequence profiles, solvent accessibility etc. - but what is new, how to verify if what I do will be new?) (e.g. combine features and/or methods from different papers)
+- What are coevolutionary (precision) features? 
+- What are protein position-specific matrices? 
+- What is solvent accessibility? 
+- Discuss if the prossible improvements mentioned in FUpred can be utilised. (combination of threading alignments and contact map info for composite domain prediction).
+- Discuss what the server part is exactly and if not doing it could impact the grade.
+- Discuss the following features: glass transition temperature, melting point, isoelectric point, molecular weight, secondary structure, solubility, surface hydrophobicity and emulsification.
+- Where can I find data? For which features is easiest to find data for.
+
+### Minutes
