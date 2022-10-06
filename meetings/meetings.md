@@ -35,5 +35,6 @@
 - Discuss what the server part is exactly and if not doing it could impact the grade.
 - Discuss the following features: glass transition temperature, melting point, isoelectric point, molecular weight, secondary structure, solubility, surface hydrophobicity and emulsification.
 - Where can I find data? For which features is easiest to find data for.
+- Discuss the papers found (if necessary) (e.g. what are evolutionary signals)
 
 ### Minutes
