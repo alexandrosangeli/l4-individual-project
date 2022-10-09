@@ -36,5 +36,6 @@
 - Discuss the following features: glass transition temperature, melting point, isoelectric point, molecular weight, secondary structure, solubility, surface hydrophobicity and emulsification.
 - Where can I find data? For which features is easiest to find data for.
 - Discuss the papers found (if necessary) (e.g. what are evolutionary signals)
+- RNN question: where is the output from t-1 fed to in t?
 
 ### Minutes
