@@ -45,5 +45,5 @@
 - Until next time:
   - Investigate how CATH will be used to evaluate AlphaFold.
   - Read some more of the paper, understand it better, write down questions.
-- Next meeting:
+- Next meeting: Monday 10th, 14:30-15:30.
   
