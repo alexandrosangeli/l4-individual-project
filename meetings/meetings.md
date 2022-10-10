@@ -10,8 +10,6 @@
 - What is the input data? Contact information? (from paper)
   - A sequence of amino acids could be the input data. Contact maps can be looked into and be utilised in the project.
 - Ask for email to add to GitLab/GitHub.
-- Ask if timelog format looks okay.
-- Does the structure of the repository matter? (template on Moodle?)
 - Is the server necessary?
   - Depends on what we what to emphasize on - i.e. Machine Learning only or a combination of software engineering and Machine Learning.
 
@@ -27,15 +25,25 @@
 ## 10/10/22
 
 ### Questions
-- Possible (new?) methods/techniques/data to use? (Ideas to combine features e.g. secondary structure, sequence profiles, solvent accessibility etc. - but what is new, how to verify if what I do will be new?) (e.g. combine features and/or methods from different papers)
-- What are coevolutionary (precision) features? 
-- What are protein position-specific matrices? 
-- What is solvent accessibility? 
+
 - Discuss if the prossible improvements mentioned in FUpred can be utilised. (combination of threading alignments and contact map info for composite domain prediction).
+  - Will look this later into the project - time may not suffice.
 - Discuss what the server part is exactly and if not doing it could impact the grade.
+  - The server part is not necessary.
 - Discuss the following features: glass transition temperature, melting point, isoelectric point, molecular weight, secondary structure, solubility, surface hydrophobicity and emulsification.
+  - Not much time - if still relevant can discuss later.
 - Where can I find data? For which features is easiest to find data for.
-- Discuss the papers found (if necessary) (e.g. what are evolutionary signals)
+  - PDB, CATH, UniProt
+- Discuss the papers found.
 - RNN question: where is the output from t-1 fed to in t?
+  - Will leave technical questions for later.
 
 ### Minutes
+- A clearer idea of how the project will go has been set:
+  - Start with benchmarking AlphaFold using CATH - part of the pipeline that can be used later to evaluate results.
+  - FUpred results will later be reproduced. If time allows, the possible improvements mentioned in the paper (FUpred) may be considered.
+- Until next time:
+  - Investigate how CATH will be used to evaluate AlphaFold.
+  - Read some more of the paper, understand it better, write down questions.
+- Next meeting:
+  
