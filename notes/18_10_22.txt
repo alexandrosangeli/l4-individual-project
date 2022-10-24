@@ -1,0 +1,10 @@
+Found this:
+https://www.researchgate.net/publication/349019842_Protein_domain_identification_methods_and_online_resources/link/601bc23f92851c4ed549291d/download
+, which discusses ways of identifying protein domains using various methods.
+This is needed in order to identify the protein domains from AlphaFold predictions.
+
+Questions:
+- Which one to use?
+- If I use a non-perfect technique, won't the accuracy of AlphaFold's protein domain prediction be underestimated?
+- Will that be an issue or is it okay if it is just mentioned as a limitation of my results?
+- Doesn't CATH also use such a technique? Should the technique used with .pdf files be similar with CATH's ?

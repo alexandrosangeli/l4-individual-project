@@ -54,10 +54,23 @@
 ### Questions
 - Where can the models descrbied in the paper be found? Do they have to be implemented?
   - Instead of implementing, benchmark datasets can be utilised.
-- I'm potentiall worried that the dissertation will be mostly paraphrasing the paper. What will the writing involve?
+- I'm worried that the dissertation will be mostly paraphrasing the paper. What will the writing involve?
   - The dissertation will require me understanding the paper and processes used during the project and then writing about those. More details (than the FUpred paper) can be elaborated such as the DeepMSA process. In general, the attempt is to reproduce the results from the paper but given that data used will not be the same, it will be very hard to reproduce them. Nevertheless, some changes may be made in the process that will constitute a more "original" work which they will also be elaborated in the project.
 
 ### Minutes
 - A possible addition could be to use a Convolutional Neural Network (CNN) do improve the contact map that's used in the pipeline described in the paper.
 - Until next week, I will look further into the CATH database and come up with potential ways to convert its format to AlphaFold's data, in order to evaluate AlphaFold's performance in Domain Prediction.
 - Next meeting: Monday 24th, 14:30-15:30.
+
+---
+  
+## 24/10/22
+
+### Questions
+- How to interpret `cath-alphaflow` from GitHub (for protein domain detection from AlphaFold's predicted PDB data).
+- What metrics to be used for evaluating AlhaFold's predictions?
+- Is it feasible to create/approximate a timeline for the project's progress now?
+- Are timelogs assessed? Is it okay that the start is slow (i.e. few hours have been logged so far). 
+
+### Minutes
+- Next meeting: Monday 31st, 14:30-15:30.
