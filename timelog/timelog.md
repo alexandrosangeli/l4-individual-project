@@ -53,3 +53,8 @@
 ### Mon 24/10/22
 
 - **2 hours** Looking into SWORD, testing it out, writing some script to format its output
+
+### Tue 25/10/22
+
+- **1 hour** Writing a script to format the output from SWORD and SWORD2
+- **0.5 hour** Looking for methods to calculate accuracy
