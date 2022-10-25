@@ -68,9 +68,18 @@
 
 ### Questions
 - How to interpret `cath-alphaflow` from GitHub (for protein domain detection from AlphaFold's predicted PDB data).
+  - Will be using SWORD instead. 
 - What metrics to be used for evaluating AlhaFold's predictions?
+  - number of domains predicted (exact, RMS)
+  - cut point prediction (+- 10 residuals)
+  - maximum overlap
 - Is it feasible to create/approximate a timeline for the project's progress now?
+  - Not an exact but it'd be good if some rough deadlines were put down. 
 - Are timelogs assessed? Is it okay that the start is slow (i.e. few hours have been logged so far). 
+  - Timelogs are not assessed. 
+- Where is the threshhold parameter that needs tuning?
 
 ### Minutes
+- Evaluation at the end can include: testing of code, evlauation of benchmarking, development of accuracy measures
+- Put down rough deadlines, good to have a plan but difficult to predict how the process will go (Especially for non SE projects)
 - Next meeting: Monday 31st, 14:30-15:30.

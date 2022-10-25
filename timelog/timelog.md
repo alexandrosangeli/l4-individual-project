@@ -47,3 +47,9 @@
 - **1.5 hours** Investigating data from CATH and AlphaFold and looking up methods of protein domain identification from data.
 
 ---
+
+## Week 6
+
+### Mon 24/10/22
+
+- **2 hours** Looking into SWORD, testing it out, writing some script to format its output
