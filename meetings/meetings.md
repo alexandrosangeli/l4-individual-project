@@ -83,3 +83,19 @@
 - Evaluation at the end can include: testing of code, evlauation of benchmarking, development of accuracy measures
 - Put down rough deadlines, good to have a plan but difficult to predict how the process will go (Especially for non SE projects)
 - Next meeting: Monday 31st, 14:30-15:30.
+
+### Questions
+- Where to access literature about methods for measuring accuracy of domain boundary prediction?
+  - Papers have been added on the teams channel
+- What to do with alternative outputs of SWORD2?
+  - Can use all of them since domain boundaries are not very well defined yet in bioinformatics (could depend on the task)
+- What to do with the slow processing of SWORD2? 
+  - Built a prototype, test on a few datapoints and when the pipeline works, run it on the entire (few thousand) datapoints
+
+### Minutes
+- Different methods for measuring accuracy have been discussed. Will read on my own time more thoroughly.
+
+### Objectives
+- Continue with the pipeline
+- Implement at least one function for measuring the accuracy until Monday
+- If there is time, come up with some soft deadlines regarding the project
