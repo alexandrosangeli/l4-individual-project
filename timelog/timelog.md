@@ -58,3 +58,7 @@
 
 - **1 hour** Writing a script to format the output from SWORD and SWORD2
 - **0.5 hour** Looking for methods to calculate accuracy
+
+### Thu 27/10/22
+
+- **3 hours** successfully finishing the scripts for formatting the output of SWORD2 and CATH domain boundaries
