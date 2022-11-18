@@ -84,6 +84,10 @@
 - Put down rough deadlines, good to have a plan but difficult to predict how the process will go (Especially for non SE projects)
 - Next meeting: Monday 31st, 14:30-15:30.
 
+---
+
+## 31/10/22
+
 ### Questions
 - Where to access literature about methods for measuring accuracy of domain boundary prediction?
   - Papers have been added on the teams channel
@@ -99,3 +103,26 @@
 - Continue with the pipeline
 - Implement at least one function for measuring the accuracy until Monday
 - If there is time, come up with some soft deadlines regarding the project
+
+---
+
+## 07/11/22
+
+### Questions
+- No questions but need some more guidance and discussion on the pipeline
+
+### Minutes
+- Use CATH pdb files to find what the upper bound of the score between AlphaFold's prediction and CATH's data will be using Sword2
+
+---
+
+## 14/11/22 (No meeting)
+
+---
+
+## 21/11/22
+
+### Questions
+- What to do with missing residues or linkers?
+  - For example, consider x = [1, 1, 1, 0, 1] (where the 0 is a linker) and y = [0, 1, 1, 0, 1] (where the first 0 is a linker and the second 0 is a missing residue). How to treat the naive accuracy function (correct predictions / total residues) ? 
+  - Is it 3 / 5 or 3 / 4 ?

@@ -62,3 +62,22 @@
 ### Thu 27/10/22
 
 - **3 hours** successfully finishing the scripts for formatting the output of SWORD2 and CATH domain boundaries
+
+## Week 7
+
+### Wed 02/11/22
+
+- **2 hours** Implementing the domain accuracy function
+
+## Week 8
+
+### Wed 09/11/22
+
+- **1 hours** Finished the accuracy function and some code reformatting
+- **1 hour** going over papers on protein domain prediction scores (found on the Teams channel)
+
+## Week 9
+
+### Fri 18/11/22
+
+- **2 hours** Fixing issue with accuracy function and code cleaning and reformatting 
