@@ -126,3 +126,5 @@
 - What to do with missing residues or linkers?
   - For example, consider x = [1, 1, 1, 0, 1] (where the 0 is a linker) and y = [0, 1, 1, 0, 1] (where the first 0 is a linker and the second 0 is a missing residue). How to treat the naive accuracy function (correct predictions / total residues) ? 
   - Is it 3 / 5 or 3 / 4 ?
+- Step 2 in CASP6 scoring: why is the third number the horizontal score (82) positive?
+  - Why isn't it negative?
