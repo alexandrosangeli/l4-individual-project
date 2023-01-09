@@ -63,11 +63,15 @@
 
 - **3 hours** successfully finishing the scripts for formatting the output of SWORD2 and CATH domain boundaries
 
+---
+
 ## Week 7
 
 ### Wed 02/11/22
 
 - **2 hours** Implementing the domain accuracy function
+
+---
 
 ## Week 8
 
@@ -76,8 +80,25 @@
 - **1 hours** Finished the accuracy function and some code reformatting
 - **1 hour** going over papers on protein domain prediction scores (found on the Teams channel)
 
+---
+
 ## Week 9
 
 ### Fri 18/11/22
 
 - **2 hours** Fixing issue with accuracy function and code cleaning and reformatting 
+
+---
+
+# Holiday Placeholder
+
+---
+
+## Week 16
+
+### Sat 07/01/23
+- Setup script that will download the PDB files.
+- Create a Dataset using Pytorch.
+---
+
+## Week 17 (Start of Sem 2)

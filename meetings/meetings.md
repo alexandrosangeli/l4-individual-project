@@ -128,3 +128,32 @@
   - Is it 3 / 5 or 3 / 4 ?
 - Step 2 in CASP6 scoring: why is the third number the horizontal score (82) positive?
   - Why isn't it negative?
+
+### Minutes
+
+
+---
+
+## 7/12/22
+
+### Questions
+ - General discussion of the future of the project which involves the deep learning part.
+
+### Minutes
+ - Discussed utilising CNNs and RNNs for the prediction.
+ - One-hot encoding for each amino acid.
+ - 20 channels input (each channel is the one hot encoding for each amino acid).
+ - CNN would be fully convolutional since the size of each protein varies.
+ - RNN is a good fit since it can take variable sized inputs.
+
+---
+
+## 15/12/22
+
+### Questions
+ - General discussion of the future of the project which involves the deep learning part.
+
+### Minutes
+  - Changed the scope of the project from domain prediction to protein domain *boundary* prediction.
+  - Discontinuous proteins would be a big issue.
+  - Future work could include utilising contact maps for discontinuous proteins.
