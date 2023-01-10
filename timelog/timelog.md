@@ -109,3 +109,4 @@
 - **1 hour** reading on ways to encode an amino acid sequence for machine learning.
 - **3 hours** writing code for automatically creating the data that will be used for training including the input data and the target for every data point.
 - **3 hours** Creating a custom dataset using dummy data and training a basic CNN.
+- **3 hours** Writing the data in a suitable format to be read during training, fixing small bug issues, attempting to properly train a network.
