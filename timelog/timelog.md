@@ -97,8 +97,15 @@
 ## Week 16
 
 ### Sat 07/01/23
-- Setup script that will download the PDB files.
-- Create a Dataset using Pytorch.
+- **1 hour** looking into what data to download and use.
+- **2 hours** looking up ways to download PDF files using a script. (Ended up using a readily available script found online)
+- **2 hours** looking into ways to read PDB files and writing code to extract the sequence of a protein from a PDB file.
+- **0.5 hour** writing code for generating the target array (need to go through this with supervisor) from the amino acid sequence.
 ---
 
 ## Week 17 (Start of Sem 2)
+
+### Mon 09/01/23 & Tue 10/01/23
+- **1 hour** reading on ways to encode an amino acid sequence for machine learning.
+- **3 hours** writing code for automatically creating the data that will be used for training including the input data and the target for every data point.
+- **3 hours** Creating a custom dataset using dummy data and training a basic CNN.

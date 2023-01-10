@@ -157,3 +157,12 @@
   - Changed the scope of the project from domain prediction to protein domain *boundary* prediction.
   - Discontinuous proteins would be a big issue.
   - Future work could include utilising contact maps for discontinuous proteins.
+
+## Next meeting
+
+### Questions
+ - How many sequences is a good number?
+ - Should I use all chains from a protein? If yes, is the data fair/balanced if some proteins have many chains and others few?
+ - How big the margin should be for the target data? (e.g. [0,0,1,1,0,0] vs [0,1,1,1,1,0])
+ - What to do about variable sized inputs? Cannot batch them together.
+ - What loss is best? Loss now seems very low (0.017) but its because the arrays are mostly zero anyway.
