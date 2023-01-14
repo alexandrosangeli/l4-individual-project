@@ -110,3 +110,16 @@
 - **3 hours** writing code for automatically creating the data that will be used for training including the input data and the target for every data point.
 - **3 hours** Creating a custom dataset using dummy data and training a basic CNN.
 - **3 hours** Writing the data in a suitable format to be read during training, fixing small bug issues, attempting to properly train a network.
+
+### Thu 12/01/23
+- **1 hour** Reading PyTorch documentation to implement an RNN (as well as GRU and LSTM)
+- **1 hour** Reading RNN theory
+- **1 hour** Reading some background on protein domain boundary prediction (Res-Dom)
+
+### Fri 13/01/23
+- **0.5 hours** reading on variable sized inputs for an RNN.
+- **3.5 hours** background reading, writing and citing.
+
+### Sat 14/01/23
+- **2.5 hours** programming.
+- **0.5 hours** dissertation writing.

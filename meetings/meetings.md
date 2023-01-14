@@ -166,3 +166,16 @@
  - How big the margin should be for the target data? (e.g. [0,0,1,1,0,0] vs [0,1,1,1,1,0])
  - What to do about variable sized inputs? Cannot batch them together.
  - What loss is best? Loss now seems very low (0.017) but its because the arrays are mostly zero anyway.
+ - Idea: Predict the number of boundaries (issue: discontinuous proteins).
+ - Using 20 layers vs unsqueezing data making them 1 dimensional ?
+ - What would be an ideal structure for the dissertation?
+ - Lit review?
+ - What to do with research that already exists? Since this isn't unique.
+ - Papers exist on this. Is the work put in a dissertation equivalent?
+ - "...were normalized to 700. Sequences longer than 700 were truncated and those shorter than 700 were padded with zeros." Should I do something similar?
+ - How to include/write about AlphaFold in the dissertation?
+ - How to account for +-X residues in the loss function? Res-Dom: "Because the true domain boundary definitions have not been universally accepted, we assigned all residues within ±20 residues from each true domain boundary "
+ - Coming up with a new method instead of evaluating different architectures? E.g. extracting features using CNNs and feeding those in a bi-LSTM.
+ - Would it be okay if the status report's timeline is not accurate?
+ - Do I need to provide background on CNN, RNN etc. in the dissertation or background on their (relevant) applications? 
+ - ASL monomer: citation style and relevenacy? 
