@@ -123,3 +123,7 @@
 ### Sat 14/01/23
 - **2.5 hours** programming.
 - **0.5 hours** dissertation writing.
+
+### Mon 16/01/2023
+- **1 hour** programming, testing different loss functions for the CNN, sampling N randomly selected proteins from the cath text file and looking at ways to convert PDB to Uniprot to have SWORD2 evaluate AlphaFold (needs the Uniprot codes).
+- **2 hours** dissertation writing.

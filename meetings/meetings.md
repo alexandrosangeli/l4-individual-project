@@ -178,4 +178,6 @@
  - Coming up with a new method instead of evaluating different architectures? E.g. extracting features using CNNs and feeding those in a bi-LSTM.
  - Would it be okay if the status report's timeline is not accurate?
  - Do I need to provide background on CNN, RNN etc. in the dissertation or background on their (relevant) applications? 
- - ASL monomer: citation style and relevenacy? 
+ - ASL monomer: citation style and relevenacy?
+ - Dissertation preview?
+ - Sources for the challenges in experimentally predicting proteins' structures. 
