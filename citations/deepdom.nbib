@@ -1,0 +1,63 @@
+PMID- 30864311
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190823
+LR  - 20200225
+IS  - 2335-6936 (Electronic)
+IS  - 2335-6928 (Print)
+IS  - 2335-6928 (Linking)
+VI  - 24
+DP  - 2019
+TI  - DeepDom: Predicting protein domain boundary from sequence alone using stacked 
+      bidirectional LSTM.
+PG  - 66-75
+AB  - Protein domain boundary prediction is usually an early step to understand protein 
+      function and structure. Most of the current computational domain boundary 
+      prediction methods suffer from low accuracy and limitation in handling 
+      multi-domain types, or even cannot be applied on certain targets such as proteins 
+      with discontinuous domain. We developed an ab-initio protein domain predictor 
+      using a stacked bidirectional LSTM model in deep learning. Our model is trained 
+      by a large amount of protein sequences without using feature engineering such as 
+      sequence profiles. Hence, the predictions using our method is much faster than 
+      others, and the trained model can be applied to any type of target proteins 
+      without constraint. We evaluated DeepDom by a 10-fold cross validation and also 
+      by applying it on targets in different categories from CASP 8 and CASP 9. The 
+      comparison with other methods has shown that DeepDom outperforms most of the 
+      current ab-initio methods and even achieves better results than the top-level 
+      template-based method in certain cases. The code of DeepDom and the test data we 
+      used in CASP 8, 9 can be accessed through GitHub at 
+      https://github.com/yuexujiang/DeepDom.
+FAU - Jiang, Yuexu
+AU  - Jiang Y
+AD  - Department of Electrical Engineering and Computer Science, Bond Life Sciences 
+      Center, University of Missouri, Columbia, Missouri 65211, USA.
+FAU - Wang, Duolin
+AU  - Wang D
+FAU - Xu, Dong
+AU  - Xu D
+LA  - eng
+GR  - R35 GM126985/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Pac Symp Biocomput
+JT  - Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+JID - 9711271
+MH  - Algorithms
+MH  - Amino Acid Sequence
+MH  - Computational Biology
+MH  - Databases, Protein
+MH  - *Deep Learning
+MH  - Neural Networks, Computer
+MH  - *Protein Domains
+PMC - PMC6417825
+MID - NIHMS999768
+EDAT- 2019/03/14 06:00
+MHDA- 2019/08/24 06:00
+CRDT- 2019/03/14 06:00
+PHST- 2019/03/14 06:00 [entrez]
+PHST- 2019/03/14 06:00 [pubmed]
+PHST- 2019/08/24 06:00 [medline]
+AID - 9789813279827_0007 [pii]
+PST - ppublish
+SO  - Pac Symp Biocomput. 2019;24:66-75.

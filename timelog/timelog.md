@@ -124,6 +124,19 @@
 - **2.5 hours** programming.
 - **0.5 hours** dissertation writing.
 
-### Mon 16/01/2023
+### Mon 16/01/23
 - **1 hour** programming, testing different loss functions for the CNN, sampling N randomly selected proteins from the cath text file and looking at ways to convert PDB to Uniprot to have SWORD2 evaluate AlphaFold (needs the Uniprot codes).
 - **2 hours** dissertation writing.
+
+### Tue 17/01/23
+- **2 hour** dissertation writing.
+- **1 hour** looking for evaluation metrics for protein domain *boundaries* (not domains) and implementing a prototype and testing a model.
+
+### Wed 18/01/23
+- **1 hour** Programming (slight modifications, trying out different loss functions and implementing new accuracy function)
+- **3 hours** dissertation writing and background reading.
+
+### Thu 19/01/23
+- **1 hour** looking for pretrained models, downloading one and playing with it (microsoft)
+- **0.5 hours** background reading.
+- **1 hour** programming - changed loss function and activation function and finally obtained some decent results. Also modified accuracy function and the input data (+- 8 residue margin)
