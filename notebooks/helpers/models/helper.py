@@ -19,13 +19,13 @@ def accuracy20(input, target, n=8):
     total = 0
     correct = 0
     for i, x in enumerate(target):
-        if round(x) == 1:
+        if x == 1:
             total += 1
             
         start = max(i - n, 0)
         end = min(i + n, len(target)-1)
         for j in range(start, end+1):
-            if round(input[j]) == 1:
+            if input[j] == 1:
                 correct += 1
                 input[j] = 0
                 break
