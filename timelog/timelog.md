@@ -146,4 +146,8 @@
 - **1 hours** background reading on protein representations (ESM, CARP etc)
 
 ### Sat 21/01/23
-- 
+- **3 hours** fixing wrong sampled data.
+- **2 hours** background reading and dissertation writing
+
+### Sun 22/01/23
+- **4 hours** verifying the data, implementing metric score functions, visualising data
