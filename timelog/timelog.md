@@ -150,4 +150,7 @@
 - **2 hours** background reading and dissertation writing
 
 ### Sun 22/01/23
-- **4 hours** verifying the data, implementing metric score functions, visualising data
+- **6 hours** verifying the data, implementing metric score functions, visualising data, converting sequences to CARP and downloading
+
+### Thu 26/01/23
+- **3 hours** re-implementing the methods and helpers for generating an array with 0s/1s for the boundaries.

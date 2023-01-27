@@ -181,4 +181,21 @@
  - Can I use this citation style? "...they use a bi-LSTM (Paper's Author, Year)
  - hybrid of Template-based and ab initio method as my argument? (no need to predict other features such as secondary structure makes it faster)
  - what are similarity thresholds and should I use something similar?
- - 
+  
+## 19/01/23
+
+### Questions
+- See questions above
+
+### Minutes
+- Need to do stratified random sampling instead of uniform.
+- Could utilize a pretrained model to generate embeddings instead of just one-hot encoding.
+- Some backround for DL/CNNs/RNNs could be good.
+
+## 26/01/23
+
+### Minutes
+- A bit more detailed needed for the AlphaFold sections since it is part of my project + maybe a diagram.
+- Restructure dissertation: Intro (incl. Background), Methods (Data, techniques, architecture etc), Result, Discussion, Conclusion
+- Use Mathew's Correlation Coefficient too for a metric.
+- Dont include multiple 1s (a margin around boundaries) in the prediction. Need to re-do some helper methods.

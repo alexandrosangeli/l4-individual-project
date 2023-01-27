@@ -49,7 +49,13 @@ def metrics(input, target):
     except ZeroDivisionError:
         f1 = 0
 
-    return (accuracy, precision, recall, f1)
+    try:
+        mcc = ((true_positive * true_negative) - (false_positive * false_negative)) / ((true_positive + false_positive) * (true_positive + false_negative) * (true_negative + false_positive) * (true_negative + false_negative))**0.5
+    except ZeroDivisionError:
+        mcc = 0
+
+
+    return (accuracy, precision, recall, f1, mcc)
 
 
 def accuracyΝ(y_pred, y_true, n=8):
