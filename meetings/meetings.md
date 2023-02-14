@@ -199,3 +199,44 @@
 - Restructure dissertation: Intro (incl. Background), Methods (Data, techniques, architecture etc), Result, Discussion, Conclusion
 - Use Mathew's Correlation Coefficient too for a metric.
 - Dont include multiple 1s (a margin around boundaries) in the prediction. Need to re-do some helper methods.
+
+## 02/02/23
+
+### Minutes
+
+
+## 09/02/23
+
+### Questions
+
+- Is 1024 vs 480 fair? Since it needs more computing power to train one over the other. But the number of trainable parameters are the same in their respective models.
+  - discuss how carp uses less processing to generate features but more to train because of 1024
+  - would need to discuss and elaborate the caveat and tradeoff in the dissertation
+- Why do PDB files not have some chains? (that are found in cath)
+- what if I combine the embeddings?
+- what does "If the domain boundary has a linker, the whole linker is regarded as the domain boundary" mean?
+  - not going to be assessed on this
+- colab pro re-imbursement
+- how much to talk about helper functions? a lot of programming is involved (BASH scripting, parsing CATH, identifying linkers/boundaries/non-boundaries, metrics, median, amplifying)
+  - maybe discuss briefly in the implementation
+- a further point if they are within three, and so on up to eight residues. A prediction two residues away from the correct boundary would therefore have 7 points. If the boundary is perfectly predicted, does it get 8 or 9 (8+1) points?
+
+### Minutes
+- STD deviation/variance of results & standard error
+- fix dataset, also change the boundaries as discussed in the meeting (2 domain would have just one boundary)
+- for dbd and 1 domain (so 0 predictions) use 1.0 for 0/0 but 0.0 for 0/x
+- add domain and key to dataset to see how good the predition is for every category (1 domain, 2 domain etc.)
+- k fold vaidaton for my model and explain the importance of the thi good practice
+- plot metrics against number of samples
+- discuss the uniprot pdb mapping in diss
+- write about helper because someone not involved in the field may not be aware of the complexity
+- alphafold + sword2 against sequence based boundary prediction methods
+- lit review about esm vs carp
+
+## 16/02/23
+
+### Questions
+- How does AF predict the A chain of IDs that have no A chain (e.g. P00800)
+- is there a way to find the number of domains from a uniprot?
+- should linkers be boundaries?
+- no literature on how boundaries are defined. Can keep the code as is and manually remove first and last boundary and test both methods
