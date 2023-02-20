@@ -237,6 +237,24 @@
 
 ### Questions
 - How does AF predict the A chain of IDs that have no A chain (e.g. P00800)
+  - will just use those that have an A chain
 - is there a way to find the number of domains from a uniprot?
-- should linkers be boundaries?
+<!-- - should linkers be boundaries? -->
 - no literature on how boundaries are defined. Can keep the code as is and manually remove first and last boundary and test both methods
+- when i tried to use -u UNIPROT and -p PDB the chains were of different size of atoms.
+- Is it safe to use the mapping (many to many) to get the PDB and check against CATH for the true boundaries?
+
+### Minutes
+- Check sequence similarity and filter
+- this can introduce bias because some chains are filtered out
+- discuss that some pdb structures dont match UNiprots that likely due to chains being modified -> thus the algorithms
+- bioinfomatics data are messy, maybe they dont agree, discuss
+- exclude discontinuous from dataset, find the number
+- if exclude disctoninuous ->
+
+## 23/02/23
+
+### Questions
+- Double check that training and testing are correct (model.eval(), no gradient stuff)
+- check metrics (should I replace the 1 in the MCC)
+- 
