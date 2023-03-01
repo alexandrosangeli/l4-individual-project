@@ -256,5 +256,35 @@
 
 ### Questions
 - Double check that training and testing are correct (model.eval(), no gradient stuff)
-- check metrics (should I replace the 1 in the MCC)
-- 
+- ~~check metrics (should I replace the 1 in the MCC - different scores are obtained with th two methods)~~
+- ~~discuss new metrics with the two passes instead of 1~~
+- do i need a glossary? (contact maps, residue)
+- does my diagram need to be accurate (e.g. is it ok if it resmebles a fully and end-to-end process if it's not?)
+- ~~is chain A ok?~~
+- ~~iid?~~
+- general advice for succeeding in academia (is work experience relevant?)
+- residuals and skip connections
+- ~~AlphaFold seems to have solved the foldingp problem, even with a low MCC, if goal of boundary prediction is to better predict structure and AF already does that, where's the benefit?~~
+
+
+### Minutes
+- reference some numbers
+- knowing the domains helps experimentalists because it helps split he protein and crytalize it
+- if alphafold is good in domain prediction then maybe split protein into domains first, apply alphafold on domains and then put everything together
+- add to intro something about crystalizastion
+- dbd must change too
+- iid - take into consideration - mmseq
+- state assumption of iid in diss
+
+## 02/03/23
+
+### Questions
+- should i time the generation of encodings?
+- can i perform hyperparam tuning on one fold only ? will it be a good indicator?
+- roc for best threshold implications?
+- play with losses
+- can i mention that i tried out different hyperparams without evidence?
+- skip connections between lstm blocks?
+- 7000 data for around 1000 features?
+- how complex can the network be given 1000 features and 7000 data points?
+- measuring time taken - how to compare with different hardware? colab assigns different hardware sometimes. Also some code is not optiimsed
