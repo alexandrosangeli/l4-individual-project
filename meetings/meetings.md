@@ -281,10 +281,22 @@
 ### Questions
 - should i time the generation of encodings?
 - can i perform hyperparam tuning on one fold only ? will it be a good indicator?
-- roc for best threshold implications?
+- ~~roc for best threshold implications?~~
+  - use entire datasaet
+  - point that maximises mcc
 - play with losses
 - can i mention that i tried out different hyperparams without evidence?
+  - ~~yes but is good to have some~~
 - skip connections between lstm blocks?
-- 7000 data for around 1000 features?
+- ~~7000 data for around 1000 features?~~
+  - Latent space is < 1000
 - how complex can the network be given 1000 features and 7000 data points?
+- how important is source code and timelog?
 - measuring time taken - how to compare with different hardware? colab assigns different hardware sometimes. Also some code is not optiimsed
+
+## 09/03/23
+
+### Questions
+- Considering boundaries at the start as well.Rationale: the model can learn when a domain starts better? (is this valid?)
+- can i describe this as an end-to-end system (which is possible if I add the encoding part in the middle just slower) even if it's not technically end-to-end?
+- total confusion matrix yields better MCC than mean MCC
