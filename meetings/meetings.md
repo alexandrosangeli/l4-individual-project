@@ -300,3 +300,5 @@
 - Considering boundaries at the start as well.Rationale: the model can learn when a domain starts better? (is this valid?)
 - can i describe this as an end-to-end system (which is possible if I add the encoding part in the middle just slower) even if it's not technically end-to-end?
 - total confusion matrix yields better MCC than mean MCC
+- should i state in the analysis that we are comparing different encoding mechanisms or leave it for the evaluation?
+- in evaluation consider visualising how many assignments (in domain number assignment) were: correct, underestimated, overestimated.
