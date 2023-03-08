@@ -302,3 +302,5 @@
 - total confusion matrix yields better MCC than mean MCC
 - should i state in the analysis that we are comparing different encoding mechanisms or leave it for the evaluation?
 - in evaluation consider visualising how many assignments (in domain number assignment) were: correct, underestimated, overestimated.
+- dpam documentation is very bad
+- ndo for af is > than pdb (sword prediction)
