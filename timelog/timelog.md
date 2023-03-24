@@ -139,7 +139,7 @@
 ### Thu 19/01/23
 - **1 hour** looking for pretrained models, downloading one and playing with it (microsoft)
 - **2 hours** background reading.
-- **1 hour** programming - changed loss function and activation function and finally obtained some decent results. Also modified accuracy function and the input data (+- 8 residue margin
+- **1 hour** programming - changed loss function and activation function and finally obtained some decent results. Also modified accuracy function and the input data +- 8 residue margin
 
 ### Fri 20/01/23
 - **1 hour** creating a more balanced dataset and visualising data.

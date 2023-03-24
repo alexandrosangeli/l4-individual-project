@@ -298,9 +298,44 @@
 
 ### Questions
 - Considering boundaries at the start as well.Rationale: the model can learn when a domain starts better? (is this valid?)
-- can i describe this as an end-to-end system (which is possible if I add the encoding part in the middle just slower) even if it's not technically end-to-end?
-- total confusion matrix yields better MCC than mean MCC
-- should i state in the analysis that we are comparing different encoding mechanisms or leave it for the evaluation?
+  - future improvements
+- ~~can i describe this as an end-to-end system (which is possible if I add the encoding part in the middle just slower) even if it's not technically end-to-end?~~
+  - better not use this definition
+- total confusion matrix yields better MCC than mean MCC (boundary prediction)
+  - mention in diss
+  - random generated arrays and test
+- should i state in the analysis that we are comparing different encoding mechanisms or leave it for the evaluation? idea was to draw everywthing from the background into analysis and say that thats what i aim to do
 - in evaluation consider visualising how many assignments (in domain number assignment) were: correct, underestimated, overestimated.
-- dpam documentation is very bad
-- ndo for af is > than pdb (sword prediction)
+- ~~dpam documentation is *very* bad~~
+- ~~DBD AND DBD for af is > than pdb (sword prediction) does PDB matter though?~~
+- ~~dbd with closest boundary doesn't make much difference~~
+- ~~how to run Pre and Rec? Do i use multi domain for pre(multi) and rec(multi) or all of them?~~
+- ~~padding in testing? that's negligible~~
+  - LSTM bult in function
+  - fixed it regardless in test function
+- ~~should i use single domain ones in boundary mcc ?~~
+- ndo is sometimes > 1. Example in notebook
+  - check mathematical description
+- ~~should implementation of metrics go in Implementation or Evaluation?~~
+  - impl
+- for limitations such as not addressing discontinuous domains and not using linkers do i discuss in the limitations section or in the analysis?
+- ~~re balanced dataset~~
+  - problem domain speific - discuss in diss~~
+
+
+### Minutes
+- add diagram for transformer
+
+## 017/03/23
+
+### Questions
+- diss feedback
+- visualisation techniques?
+- dbd discussion
+- boxplots (https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
+
+### Minutes
+- highlight alternatives e.g. 0.08 vs 0.3 boundary
+- unet
+- transfer learning
+- finetune ESM/CARP - end to end learning
