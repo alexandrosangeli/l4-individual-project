@@ -1,0 +1,196 @@
+Target;Type;Res;Oligo.State;Entry Date; Server Exp.;QA Exp.;Human Exp.;Cancellation Date;Description
+T0949;All groups;183;A1;2018-05-01;2018-05-04;m1:2018-05-08 m2:2018-05-10;2018-05-21;-;B7JAQ5_ACIF2   
+T0950;Server only;353;An;2018-05-02;2018-05-05;m1:2018-05-09 m2:2018-05-11;2018-05-15;-;PaxB 6ek4  <em><font color=red>Reclassified to server only (paper released before the human deadline)</font></em>
+T0951;Server only;276;A1;2018-05-03;2018-05-09;m1:2018-05-13 m2:2018-05-15;2018-05-15;-;ShHTL7 5z82  
+T0952;All groups;35;A2;2018-05-03;2018-05-06;m1:2018-05-10 m2:2018-05-12;2018-05-24;2018-05-04;O48503 6fxa  <em><font color=red>Canceled: paper released before the prediction deadline.</font></em>
+H0953;All groups;321;A3B1;2018-05-04;2018-05-07;m1:2018-05-11 m2:2018-05-13;2018-05-25;-;Adhesin tip 6f45  
+T0953s1;All groups;72;A1;2018-05-04;2018-05-10;m1:2018-05-14 m2:2018-05-16;2018-05-25;-;Adhesin tip 6f45  
+T0953s2;All groups;249;A1;2018-05-04;2018-05-10;m1:2018-05-14 m2:2018-05-16;2018-05-25;-;Adhesin tip 6f45  
+T0954;All groups;350;A1;2018-05-07;2018-05-13;m1:2018-05-17 m2:2018-05-19;2018-05-28;-;RFWD3_HUMAN 6cvz  
+T0955;All groups;41;A1;2018-05-08;2018-05-14;m1:2018-05-18 m2:2018-05-20;2018-05-29;-;gHEEE_02 5w9f  
+T0956;All groups;178;A1;2018-05-08;2018-05-14;m1:2018-05-18 m2:2018-05-20;2018-05-29;2018-09-13;K0A2T3   <em><font color=red>Canceled: no structure.</font></em>
+H0957;All groups;327;A1B1;2018-05-09;2018-05-15;m1:2018-05-19 m2:2018-05-21;2018-05-30;-;CdiA_CdiI-CPX200209 6cp8  
+T0957s1;All groups;163;A1;2018-05-09;2018-05-15;m1:2018-05-19 m2:2018-05-21;2018-05-30;-;CdiA_CdiI-CPX200209 6cp8  
+T0957s2;All groups;164;A1;2018-05-09;2018-05-15;m1:2018-05-19 m2:2018-05-21;2018-05-30;-;CdiA_CdiI-CPX200209 6cp8  
+T0958;All groups;96;A1;2018-05-10;2018-05-15;m1:2018-05-19 m2:2018-05-21;2018-05-31;-;LP1413 6btc  
+T0959;All groups;189;A1;2018-05-10;2018-05-15;m1:2018-05-19 m2:2018-05-21;2018-06-05;-;Endolysin ARW58837.1   
+T0960;All groups;384;A3;2018-05-11;2018-05-16;m1:2018-05-20 m2:2018-05-22;2018-06-05;-;PALES_06171 6cl5  
+T0963;All groups;372;A3;2018-05-15;2018-05-18;m1:2018-05-22 m2:2018-05-24;2018-06-05;-;PA0620 6cl6  
+T0964;All groups;184;A1;2018-05-16;2018-05-19;m1:2018-05-23 m2:2018-05-25;2018-06-06;-;CBM56   
+T0965;All groups;334;A2;2018-05-16;2018-05-19;m1:2018-05-23 m2:2018-05-25;2018-06-06;-;NADP reductase 6d2v  
+T0966;All groups;494;A2;2018-05-17;2018-05-20;m1:2018-05-24 m2:2018-05-26;2018-06-07;-;Ras/Rap1 site-specific endopeptidase  5w6l  
+T0967;Server only;81;A1;2018-05-17;2018-05-20;m1:2018-05-24 m2:2018-05-26;2018-05-26;-;MamB, Magnetosome protein  6qfj  
+H0968;All groups;242;A2B2;2018-05-18;2018-05-21;m1:2018-05-25 m2:2018-05-27;2018-06-08;-;B5Y0C2 6cp9  
+T0968s1;All groups;126;A1;2018-05-18;2018-05-21;m1:2018-05-25 m2:2018-05-27;2018-06-08;-;B5Y0C2 6cp9  
+T0968s2;All groups;116;A1;2018-05-18;2018-05-21;m1:2018-05-25 m2:2018-05-27;2018-06-08;-;B5Y0C2 6cp9  
+T0961;All groups;505;A4;2018-05-21;2018-05-24;m1:2018-05-28 m2:2018-05-30;2018-06-11;-;Q6MJ59 6sd8  
+T0962;Server only;220;A1;2018-05-21;2018-05-24;m1:2018-05-28 m2:2018-05-30;2018-05-30;-;Endolysin KPP12   
+S0949;Assisted;-;-;2018-05-22;2018-05-25;-;2018-06-10;-;B7JAQ5_ACIF2   
+T0969;All groups;487;A1;2018-05-22;2018-05-25;m1:2018-05-29 m2:2018-05-31;2018-06-12;-;XOAT1 6cci  
+T0970;All groups;97;A2;2018-05-23;2018-05-26;m1:2018-05-30 m2:2018-06-01;2018-06-13;-;Q6ZWB6 6g57  
+T0971;Server only;186;A1;2018-05-23;2018-05-26;m1:2018-05-30 m2:2018-06-01;2018-06-02;-;nuclear transport factor 2 6d34  
+T0972;All groups;106;A1;2018-05-24;2018-05-27;m1:2018-05-31 m2:2018-06-02;2018-06-14;2018-09-13;Q0P914_CAMJE    <em><font color=red>Canceled: no structure.</font></em>
+T0973;All groups;146;A2;2018-05-24;2018-05-27;m1:2018-05-31 m2:2018-06-02;2018-06-14;-;Bacteriophage ESE058 coat protein 6yfn  
+H0974;All groups;167;A1B1;2018-05-25;2018-05-28;m1:2018-06-01 m2:2018-06-03;2018-06-15;-;O48503/O48504   
+T0974s1;All groups;72;A1;2018-05-25;2018-05-28;m1:2018-06-01 m2:2018-06-03;2018-06-15;-;O48503/O48504 6tri  
+T0974s2;Server only;95;A1;2018-05-25;2018-05-28;m1:2018-06-01 m2:2018-06-03;2018-06-03;-;O48503/O48504 6tri  
+S0953;Assisted;-;-;2018-05-29;2018-06-01;-;2018-06-12;-;Adhesin tip   
+S0953s1;Assisted;-;-;2018-05-29;2018-06-01;-;2018-06-12;-;Adhesin tip   
+S0953s2;Assisted;-;-;2018-05-29;2018-06-01;-;2018-06-12;-;Adhesin tip   
+T0975;All groups;343;A1;2018-05-29;2018-06-01;m1:2018-06-05 m2:2018-06-07;2018-06-19;-;EXO5 7lw8  
+T0976;All groups;252;A2;2018-05-29;2018-06-01;m1:2018-06-05 m2:2018-06-07;2018-06-19;-;Rhodanese-like family protein 6mxv  
+T0977;All groups;566;A3;2018-05-30;2018-06-02;m1:2018-06-06 m2:2018-06-08;2018-06-20;-;YP_004957431.1   
+R0949;Refinement;-;-;2018-05-31;2018-06-03;-;2018-06-21;-;B7JAQ5_ACIF2  Starting model's GDT_HA=49.   Residues 1-42, 96-105 and 182-183 are not ordered in the crystal structure and deleted from the starting model.   The structure contains a bound Cu ion.  
+S0957;Assisted;-;-;2018-05-31;2018-06-03;-;2018-06-14;-;CdiA_CdiI-CPX200209   
+S0957s1;Assisted;-;-;2018-05-31;2018-06-03;-;2018-06-14;-;CdiA_CdiI-CPX200209   
+S0957s2;Assisted;-;-;2018-05-31;2018-06-03;-;2018-06-14;-;CdiA_CdiI-CPX200209   
+T0978;Server only;416;A1;2018-05-31;2018-06-03;m1:2018-06-07 m2:2018-06-09;2018-06-09;-;DpdA, WP_001542917.1   
+T0979;All groups;98;A3;2018-05-31;2018-06-03;m1:2018-06-07 m2:2018-06-09;2018-06-21;-;A0A0G1XU35_9BACT 7o92  
+H0980;All groups;163;A2B2;2018-06-01;2018-06-04;m1:2018-06-08 m2:2018-06-10;2018-06-22;-;Q3KP22-3; Q8NHR7 6gnx  
+R0958;Refinement;-;-;2018-06-01;2018-06-04;-;2018-06-17;2018-06-10;LP1413  <em><font color=red>Canceled - paper appeared online.</font></em> <em><font color=red>Canceled - paper appeared online.</font></em>
+T0980s1;All groups;111;A1;2018-06-01;2018-06-04;m1:2018-06-08 m2:2018-06-10;2018-06-22;-;Q3KP22-3; Q8NHR7 6gnx  
+T0980s2;All groups;52;A1;2018-06-01;2018-06-04;m1:2018-06-08 m2:2018-06-10;2018-06-22;-;Q3KP22-3; Q8NHR7 6gnx  
+T0981;All groups;640;A3;2018-06-04;2018-06-07;m1:2018-06-11 m2:2018-06-13;2018-06-25;-;gp146   
+R0957s2;Refinement;-;-;2018-06-05;2018-06-08;-;2018-06-26;-;CdiA_CdiI-CPX200209  Starting model's GDT_HA=39. Residues 1-6 are absent from the target structure and deleted from the starting model.   
+R0959;Refinement;-;-;2018-06-05;2018-06-08;-;2018-06-25;-;Endolysin ARW58837.1  Starting model's GDT_HA=45.    
+T0982;Server only;283;A1;2018-06-05;2018-06-08;m1:2018-06-12 m2:2018-06-14;2018-06-16;-;DynU16 6v04  
+T0983;All groups;245;A2;2018-06-05;2018-06-08;m1:2018-06-12 m2:2018-06-14;2018-06-26;-;Cals10 6uk5  
+R0962;Refinement;-;-;2018-06-06;2018-06-09;-;2018-06-27;-;Endolysin KPP12  Starting model's GDT_HA=63 (on residues 2-178). Residues 1 and 179-220 are absent from the target and deleted from the starting model.    
+T0984;All groups;752;A2;2018-06-06;2018-06-09;m1:2018-06-13 m2:2018-06-15;2018-06-27;-;Q8NHX9 6nq1  
+T0985;All groups;863;A1;2018-06-07;2018-06-10;m1:2018-06-14 m2:2018-06-16;2018-06-28;-;ACL_1061   
+H0986;All groups;251;A1B1;2018-06-08;2018-06-11;m1:2018-06-15 m2:2018-06-17;2018-06-29;-;Toxic C-Terminal Tip of CdiA and Immune Protein 6d7y  
+T0986s1;All groups;96;A1;2018-06-08;2018-06-11;m1:2018-06-15 m2:2018-06-17;2018-06-29;-;Toxic C-Terminal Tip of CdiA and Immune Protein 6d7y  
+T0986s2;All groups;155;A1;2018-06-08;2018-06-11;m1:2018-06-15 m2:2018-06-17;2018-06-29;-;Toxic C-Terminal Tip of CdiA and Immune Protein 6d7y  
+S0968;Assisted;-;-;2018-06-11;2018-06-14;-;2018-06-25;-;B5Y0C2   
+S0968s1;Assisted;-;-;2018-06-11;2018-06-14;-;2018-06-25;-;B5Y0C2   
+S0968s2;Assisted;-;-;2018-06-11;2018-06-14;-;2018-06-25;-;B5Y0C2   
+T0987;All groups;405;A1;2018-06-11;2018-06-14;m1:2018-06-18 m2:2018-06-20;2018-07-02;-;Enterococcal surface protein 6ori  
+T0988;All groups;204;A3;2018-06-12;2018-06-15;m1:2018-06-19 m2:2018-06-21;2018-07-03;2018-06-29;YP_006383572   <em><font color=red>Canceled: identical to T0881 in CASP12</font></em>
+T0989;All groups;246;A3;2018-06-12;2018-06-15;m1:2018-06-19 m2:2018-06-21;2018-07-03;-;Q6XQB2.1   
+X0953;Assisted;-;-;2018-06-12;2018-06-15;-;2018-07-01;-;Adhesin tip   
+X0953s1;Assisted;-;-;2018-06-12;2018-06-15;-;2018-07-01;-;Adhesin tip   
+X0953s2;Assisted;-;-;2018-06-12;2018-06-15;-;2018-07-01;-;Adhesin tip   
+T0990;All groups;552;A1;2018-06-13;2018-06-16;m1:2018-06-20 m2:2018-06-22;2018-07-04;-;NS1 6n9y  
+R0968s1;Refinement;-;-;2018-06-14;2018-06-17;-;2018-07-04;-;B5Y0C2  Starting model's GDT_HA=45. Residues 1-5 and 124-126 are absent from the target structure and deleted from the starting model.   
+R0968s2;Refinement;-;-;2018-06-14;2018-06-17;-;2018-07-04;-;B5Y0C2  Starting model's GDT_HA=50.  
+T0991;All groups;118;A2;2018-06-14;2018-06-17;m1:2018-06-21 m2:2018-06-23;2018-07-05;-;Bacteriophage ESE001 coat protein 6yfj  
+T0992;All groups;126;A1;2018-06-14;2018-06-17;m1:2018-06-21 m2:2018-06-23;2018-07-05;-;Q6MKZ7   
+X0957;Assisted;-;-;2018-06-14;2018-06-17;-;2018-07-02;-;CdiA_CdiI-CPX200209   
+X0957s1;Assisted;-;-;2018-06-14;2018-06-17;-;2018-07-02;-;CdiA_CdiI-CPX200209   
+X0957s2;Assisted;-;-;2018-06-14;2018-06-17;-;2018-07-02;-;CdiA_CdiI-CPX200209   
+H0993;All groups;378;A2B2;2018-06-15;2018-06-18;m1:2018-06-22 m2:2018-06-24;2018-07-06;-;MlaFA   
+T0993s1;All groups;269;A1;2018-06-15;2018-06-18;m1:2018-06-22 m2:2018-06-24;2018-07-06;-;MlaFA 6xbd  
+T0993s2;All groups;109;A1;2018-06-15;2018-06-18;m1:2018-06-22 m2:2018-06-24;2018-07-06;-;MlaFA 6xbd  
+T0994;All groups;585;A1;2018-06-18;2018-06-21;m1:2018-06-25 m2:2018-06-27;2018-07-09;2021-09-15;Q79ER8_STAAU   <em><font color=red>Canceled: no structure.</font></em>
+T0995;All groups;330;A8;2018-06-19;2018-06-22;m1:2018-06-26 m2:2018-06-28;2018-07-10;-;UniProtKB - B3GNT7 (B3GNT7_BACPU)   
+T0996;All groups;848;A6;2018-06-20;2018-06-23;m1:2018-06-27 m2:2018-06-29;2018-07-11;-;YebT 6v0e  
+T0997;All groups;228;A2;2018-06-21;2018-06-24;m1:2018-06-28 m2:2018-06-30;2018-07-12;-;Q6MN59   
+T0998;All groups;166;A2;2018-06-21;2018-06-24;m1:2018-06-28 m2:2018-06-30;2018-07-12;-;Bacteripohage AVE016 coat protein 6yfb  
+R0974s1;Refinement;-;-;2018-06-22;2018-06-25;-;2018-07-13;-;O48503/O48504  Starting model's GDT_HA=66. Residues 1 and 71-72 are absent from the target structure and deleted from the starting model.   
+S0980;Assisted;-;-;2018-06-22;2018-06-25;-;2018-07-08;-;Q3KP22-3; Q8NHR7   
+S0980s1;Assisted;-;-;2018-06-22;2018-06-25;-;2018-07-08;-;Q3KP22-3; Q8NHR7   
+S0980s2;Assisted;-;-;2018-06-22;2018-06-25;-;2018-07-08;-;Q3KP22-3; Q8NHR7   
+T0999;All groups;1589;A2;2018-06-22;2018-06-25;m1:2018-06-29 m2:2018-07-01;2018-07-13;-;G0S061_CHATD 6hqv  
+S0975;Assisted;-;-;2018-06-25;2018-06-28;-;2018-07-14;-;EXO5   
+T1000;All groups;523;A2;2018-06-25;2018-06-28;m1:2018-07-02 m2:2018-07-04;2018-07-16;-;D-galactarate dehydrogenase 6u7l  
+S0981;Assisted;-;-;2018-06-26;2018-06-29;-;2018-07-15;-;gp146   
+T1001;All groups;140;A2;2018-06-26;2018-06-29;m1:2018-07-03 m2:2018-07-05;2018-07-17;-;Q6MIM9   
+T1002;All groups;270;A1;2018-06-26;2018-06-29;m1:2018-07-03 m2:2018-07-05;2018-07-17;-;Q184J8   
+X0968;Assisted;-;-;2018-06-26;2018-06-29;-;2018-07-15;-;B5Y0C2   
+X0968s1;Assisted;-;-;2018-06-26;2018-06-29;-;2018-07-15;-;B5Y0C2   
+X0968s2;Assisted;-;-;2018-06-26;2018-06-29;-;2018-07-15;-;B5Y0C2   
+T1003;All groups;474;A2;2018-06-27;2018-06-30;m1:2018-07-04 m2:2018-07-06;2018-07-17;-;ALAS2 6hrh  
+T1004;All groups;458;A3;2018-06-28;2018-07-01;m1:2018-07-05 m2:2018-07-07;2018-07-19;-;YP_009041344.1   
+S0985;Assisted;-;-;2018-06-29;2018-07-02;-;2018-07-18;-;ACL_1061   
+T1005;All groups;364;A1;2018-06-29;2018-07-02;m1:2018-07-06 m2:2018-07-08;2018-07-20;-;BT1044 6q64  
+A0953;Assisted;-;-;2018-07-02;2018-07-05;-;2018-07-23;-;Adhesin tip   
+A0953s1;Assisted;-;-;2018-07-02;2018-07-05;-;2018-07-23;-;Adhesin tip   
+A0953s2;Assisted;-;-;2018-07-02;2018-07-05;-;2018-07-23;-;Adhesin tip   
+T1006;All groups;79;A2;2018-07-02;2018-07-05;m1:2018-07-09 m2:2018-07-11;2018-07-23;-;>MamM magnetosome protein 6qek  
+T1007;All groups;149;A1;2018-07-02;2018-07-05;m1:2018-07-09 m2:2018-07-11;2018-07-23;2018-09-13;Proline-rich acidic protein 1   <em><font color=red>Canceled: no structure.</font></em>
+R0981-D4;Refinement;-;-;2018-07-03;2018-07-06;-;2018-07-24;-;gp146  This refinement target corresponds to domain 4 (res. 403-513) of T0981. Starting model's GDT_HA=45 (calculated on residues belonging to the domain). Please remember that the original target is a homotrimer. The interface in the starting model is modeled reasonably accurate. 
+R0981-D5;Refinement;-;-;2018-07-03;2018-07-06;-;2018-07-24;-;gp146  This refinement target corresponds to domain 5 (res. 514-640) of T0981. Starting model's GDT_HA=42 (calculated on residues belonging to the domain). Please remember that the original target is a homotrimer. Residues 605-623 are a part of a homotrimer interface and modeling of this segment can be improved the most. 
+T1008;All groups;80;A1;2018-07-03;2018-07-06;m1:2018-07-10 m2:2018-07-12;2018-07-24;-;UW_engnr 6msp  
+T1009;All groups;718;A2;2018-07-03;2018-07-06;m1:2018-07-10 m2:2018-07-12;2018-07-24;-;A2QTU5.1 6dru  
+R0981-D3;Refinement;-;-;2018-07-05;2018-07-08;-;2018-07-26;-;gp146  This refinement target corresponds to domain 3 (res. 191-393) of T0981. Starting model's GDT_HA=32 (calculated on residues belonging to the domain). Please remember that the original target is a homotrimer. The interface in the starting model is modeled reasonably accurate. 
+S0987;Assisted;-;-;2018-07-05;2018-07-08;-;2018-07-22;-;Enterococcal surface protein   
+T1010;All groups;210;A2;2018-07-05;2018-07-08;m1:2018-07-12 m2:2018-07-14;2018-07-26;-;B2BM43 6ubl  
+x0957;Assisted;-;-;2018-07-05;2018-07-08;-;2018-07-25;-;CdiA_CdiI-CPX200209   
+x0957s1;Assisted;-;-;2018-07-05;2018-07-08;-;2018-07-25;-;CdiA_CdiI-CPX200209   
+x0957s2;Assisted;-;-;2018-07-05;2018-07-08;-;2018-07-25;-;CdiA_CdiI-CPX200209   
+R0977-D2;Refinement;-;-;2018-07-06;2018-07-09;-;2018-08-01;-;YP_004957431.1  This refinement target corresponds to domain 2 (res. 360-563) of T0977. Starting model's GDT_HA=68 (calculated on residues belonging to the domain). Please remember that the original target is a homotrimer. The interface in the starting model is modeled reasonably accurate.    
+S0992;Assisted;-;-;2018-07-06;2018-07-09;-;2018-07-22;-;Q6MKZ7   
+T1011;All groups;534;A1;2018-07-06;2018-07-09;m1:2018-07-13 m2:2018-07-15;2018-08-01;-;UNK1 6m9t  
+T1012;All groups;199;A1;2018-07-06;2018-07-09;m1:2018-07-13 m2:2018-07-15;2018-08-01;2018-09-13;Puromycin N-acetyltransferase   <em><font color=red>Canceled: no structure.</font></em>
+R0986s1;Refinement;-;-;2018-07-09;2018-07-12;-;2018-08-01;-;Toxic C-Terminal Tip of CdiA and Immune Protein  Starting model's GDT_HA=59. Residues 1-4 are absent from the target structure and deleted from the starting model.   
+R0986s2;Refinement;-;-;2018-07-09;2018-07-12;-;2018-08-01;-;Toxic C-Terminal Tip of CdiA and Immune Protein  Starting model's GDT_HA=49.  
+T1013;All groups;537;A1;2018-07-09;2018-07-12;m1:2018-07-16 m2:2018-07-18;2018-08-01;-;UNK2   
+T1014;All groups;276;A1;2018-07-09;2018-07-12;m1:2018-07-16 m2:2018-07-18;2018-08-01;-;WP_010918027.1 6qrj  
+H1015;All groups;218;A1B1;2018-07-10;2018-07-13;m1:2018-07-17 m2:2018-07-19;2018-08-01;-;CDI_213   
+T1015s1;All groups;89;A1;2018-07-10;2018-07-13;m1:2018-07-17 m2:2018-07-19;2018-08-01;-;CDI_213   
+T1015s2;All groups;129;A1;2018-07-10;2018-07-13;m1:2018-07-17 m2:2018-07-19;2018-08-01;-;CDI_213   
+T1016;All groups;203;A2;2018-07-10;2018-07-13;m1:2018-07-17 m2:2018-07-19;2018-08-01;-;IDP96117 6e4b  
+H1017;All groups;240;A1B1;2018-07-11;2018-07-14;m1:2018-07-18 m2:2018-07-20;2018-08-01;-;201_INDD4   
+R0992;Refinement;-;-;2018-07-11;2018-07-14;-;2018-08-01;-;Q6MKZ7  Starting model's GDT_HA=65. Residues 1-3, 111-126 are absent from the target and deleted from the starting model.    
+T1017s1;All groups;111;A1;2018-07-11;2018-07-14;m1:2018-07-18 m2:2018-07-20;2018-08-01;-;201_INDD4   
+T1017s2;All groups;129;A1;2018-07-11;2018-07-14;m1:2018-07-18 m2:2018-07-20;2018-08-01;-;201_INDD4   
+T1018;All groups;334;A2;2018-07-11;2018-07-14;m1:2018-07-18 m2:2018-07-20;2018-08-01;-;IDP04388 6n91  
+H1019;All groups;146;A1B1;2018-07-12;2018-07-15;m1:2018-07-19 m2:2018-07-21;2018-07-31;-;CDI207t   
+T1019s1;All groups;58;A1;2018-07-12;2018-07-15;m1:2018-07-19 m2:2018-07-21;2018-07-31;-;CDI207t   
+T1019s2;All groups;88;A1;2018-07-12;2018-07-15;m1:2018-07-19 m2:2018-07-21;2018-07-31;-;CDI207t   
+T1020;All groups;577;A3;2018-07-12;2018-07-15;m1:2018-07-19 m2:2018-07-21;2018-07-31;-;SLAC1 7en0  
+H1021;All groups;798;A6B6C6;2018-07-13;2018-07-16;m1:2018-07-20 m2:2018-07-22;2018-08-03;-;Q6HAD8,Q6HAD7,Q6HAC3 6rap  
+R0989-D1;Refinement;-;-;2018-07-13;2018-07-16;-;2018-08-03;-;Q6XQB2.1  This refinement target corresponds to domain 1 (res. 1-134) of T0989. Starting model's GDT_HA=34 (calculated on residues belonging to the domain). Please remember that the original target is a homotrimer. There is a lot of room for improvement, especially in the N-terminus.  
+S0999;Assisted;-;-;2018-07-13;2018-07-16;-;2018-07-31;-;G0S061_CHATD   
+T1021s1;All groups;149;A1;2018-07-13;2018-07-16;m1:2018-07-20 m2:2018-07-22;2018-08-03;-;Q6HAD8,Q6HAD7,Q6HAC3 6rap  
+T1021s2;All groups;354;A1;2018-07-13;2018-07-16;m1:2018-07-20 m2:2018-07-22;2018-08-03;-;Q6HAD8,Q6HAD7,Q6HAC3 6rap  
+T1021s3;All groups;295;A1;2018-07-13;2018-07-16;m1:2018-07-20 m2:2018-07-22;2018-08-03;-;Q6HAD8,Q6HAD7,Q6HAC3 6rap  
+H1022;All groups;758;A6B3;2018-07-16;2018-07-19;m1:2018-07-23 m2:2018-07-25;2018-08-05;-;Q6HAD2,Q6HAD1 6rbk  
+T1022s1;All groups;229;A1;2018-07-16;2018-07-19;m1:2018-07-23 m2:2018-07-25;2018-08-05;-;Q6HAD2,Q6HAD1 6rbk  
+T1022s2;All groups;529;A1;2018-07-16;2018-07-19;m1:2018-07-23 m2:2018-07-25;2018-08-05;-;Q6HAD2,Q6HAD1 6rbk  
+x0968;Assisted;-;-;2018-07-16;2018-07-19;-;2018-08-02;-;B5Y0C2   
+x0968s1;Assisted;-;-;2018-07-16;2018-07-19;-;2018-08-02;-;B5Y0C2   
+x0968s2;Assisted;-;-;2018-07-16;2018-07-19;-;2018-08-02;-;B5Y0C2   
+X0975;Assisted;-;-;2018-07-16;2018-07-19;-;2018-08-06;-;EXO5   
+H1023;All groups;1120;A1B1C1;2018-07-17;2018-07-20;m1:2018-07-24 m2:2018-07-26;2018-08-06;2018-09-17;eIF2   <em><font color=red>Canceled: no structure.</font></em>
+T1023s1;All groups;315;A1;2018-07-17;2018-07-20;m1:2018-07-24 m2:2018-07-26;2018-08-06;2018-09-17;eIF2   <em><font color=red>Canceled: no structure.</font></em>
+T1023s2;All groups;333;A1;2018-07-17;2018-07-20;m1:2018-07-24 m2:2018-07-26;2018-08-06;2018-09-17;eIF2   <em><font color=red>Canceled: no structure.</font></em>
+T1023s3;All groups;472;A1;2018-07-17;2018-07-20;m1:2018-07-24 m2:2018-07-26;2018-08-06;2018-09-17;eIF2   <em><font color=red>Canceled: no structure.</font></em>
+X0981;Assisted;-;-;2018-07-17;2018-07-20;-;2018-08-07;-;gp146   
+R0997;Refinement;-;-;2018-07-18;2018-07-21;-;2018-08-08;-;Q6MN59  Starting model's GDT_HA=42 (on residues 44-228). Residues 1-43 are deleted from the starting model.    
+R0979;Refinement;-;-;2018-07-19;2018-07-22;-;2018-08-09;-;A0A0G1XU35_9BACT  This is the first oligomeric refinement target in CASP. Being a trimer, it is somewhat longer than other refinement targets in CASP13: 276 residues total. GDT_HA of the starting model's monomeric unit is 55 (on 92 residues; residues 1-5 and 98 are absent from the experimental structure). LDDT score of the oligomeric starting model is 0.81; the inter-chain contact accuracy score F1=43%. All rules pertaining to submission of regular homo-oligomeric targets apply here.   
+X0985;Assisted;-;-;2018-07-19;2018-07-22;-;2018-08-08;-;ACL_1061   
+N0953s2;Assisted;-;-;2018-07-20;2018-07-23;-;2018-08-16;2018-08-02;Adhesin tip   <em><font color=red>Canceled: structure appeared in the PDB on Aug 1.</font></em>
+R0999-D3;Refinement;-;-;2018-07-20;2018-07-23;-;2018-08-10;-;G0S061_CHATD  This refinement target corresponds to domain 3 (res. 866-1045) of T0999. Starting model's GDT_HA=54 (calculated on residues belonging to the domain). The original target is a homodimer.  
+R1002-D2;Refinement;-;-;2018-07-23;2018-07-26;-;2018-08-13;-;Q184J8  This refinement target corresponds to domain 2 (res. 60-118) of T1002. Starting model's GDT_HA=66 (calculated on residues belonging to the domain). 
+X0987;Assisted;-;-;2018-07-23;2018-07-26;-;2018-08-07;-;Enterococcal surface protein   
+R1001;Refinement;-;-;2018-07-24;2018-07-27;-;2018-08-14;-;Q6MIM9  Starting model's GDT_HA=53. Residue 1 is absent from the target and deleted from the starting model.  
+N0957s1;Assisted;-;-;2018-07-26;2018-07-29;-;2018-08-17;-;CdiA_CdiI-CPX200209   
+N0989;Assisted;-;-;2018-07-31;2018-08-03;-;2018-08-18;-;Q6XQB2.1   
+X0999;Assisted;-;-;2018-08-01;2018-08-04;-;2018-08-20;-;G0S061_CHATD   
+N0968s1;Assisted;-;-;2018-08-03;2018-08-06;-;2018-08-19;-;B5Y0C2   
+N0968s2;Assisted;-;-;2018-08-03;2018-08-06;-;2018-08-19;-;B5Y0C2   
+R1004-D2;Refinement;-;-;2018-08-03;2018-08-06;-;2018-08-19;-;YP_009041344.1  This refinement target corresponds to domain 2 (res. 152-228) of T1004. Starting model's GDT_HA=60 (calculated on residues belonging to the domain). 
+x0975;Assisted;-;-;2018-08-06;2018-08-09;-;2018-08-20;-;EXO5   
+N0980s1;Assisted;-;-;2018-08-07;2018-08-10;-;2018-08-22;-;Q3KP22-3; Q8NHR7   
+R0982-D2;Refinement;-;-;2018-08-07;2018-08-10;-;2018-08-23;-;DynU16  This refinement target corresponds to domain 2 (res. 146-277) of T0982. Starting model's GDT_HA=50 (calculated on residues belonging to the domain). 
+R1009-D3;Refinement;-;-;2018-08-07;2018-08-10;-;2018-08-23;2018-08-21;A2QTU5.1  This refinement target corresponds to domain 3 (res. 595-718) of T1009. The target is a glycoprotein. Starting model's GDT_HA=63 (calculated on residues belonging to the domain).  <em><font color=red>Canceled: structure 6dru appeared in the PDB on Aug 21.</font></em> 
+x0987;Assisted;-;-;2018-08-07;2018-08-10;-;2018-08-22;-;Enterococcal surface protein   
+R0976-D1;Refinement;-;-;2018-08-08;2018-08-11;-;2018-08-24;-;Rhodanese-like family protein  This refinement target corresponds to domain 1 (res. 9-128) of T0976. Starting model's GDT_HA=69 (calculated on residues belonging to the domain). 
+R0976-D2;Refinement;-;-;2018-08-08;2018-08-11;-;2018-08-24;-;Rhodanese-like family protein  This refinement target corresponds to domain 2 (res. 129-252) of T0976. Starting model's GDT_HA=65 (calculated on residues belonging to the domain). 
+N0981-D1;Assisted;-;-;2018-08-09;2018-08-12;-;2018-08-23;-;gp146   
+N0981-D2;Assisted;-;-;2018-08-09;2018-08-12;-;2018-08-23;-;gp146   
+N0981-D3;Assisted;-;-;2018-08-09;2018-08-12;-;2018-08-23;-;gp146   
+N0981-D4;Assisted;-;-;2018-08-09;2018-08-12;-;2018-08-23;-;gp146   
+N0981-D5;Assisted;-;-;2018-08-09;2018-08-12;-;2018-08-23;-;gp146   
+R0993s2;Refinement;-;-;2018-08-09;2018-08-12;-;2018-08-24;-;MlaFA  This refinement target corresponds to second subunit of H0993 complex. Starting model's GDT_HA=51. The His-tag was not observed in density, so that the chain should start with residue 12. 
+R1016;Refinement;-;-;2018-08-09;2018-08-12;-;2018-08-24;-;IDP96117  This refinement target corresponds to T1016. Starting model's GDT_HA=63. 
+F0964;Assisted;-;-;2018-08-10;2018-08-13;-;2018-09-30;-;CBM56   
+N0980;Assisted;-;-;2018-08-10;2018-08-13;-;2018-08-26;-;Q3KP22-3; Q8NHR7   
+N1005;Assisted;-;-;2018-08-10;2018-08-13;-;2018-08-25;-;BT1044   
+N1008;Assisted;-;-;2018-08-10;2018-08-13;-;2018-09-10;-;UW_engnr   
+R0996-D4;Refinement;-;-;2018-08-10;2018-08-13;-;2018-08-25;-;YebT  This refinement target corresponds to domain 4 (res. 351-483) of T0996. Starting model's GDT_HA=53 (calculated on residues belonging to the domain). 
+R0996-D5;Refinement;-;-;2018-08-10;2018-08-13;-;2018-08-25;-;YebT  This refinement target corresponds to domain 5 (res. 484-604) of T0996. Starting model's GDT_HA=56 (calculated on residues belonging to the domain). 
+R0996-D7;Refinement;-;-;2018-08-10;2018-08-13;-;2018-08-25;-;YebT  This refinement target corresponds to domain 7 (res. 709-848) of T0996. Starting model's GDT_HA=55 (calculated on residues belonging to the domain). 
+n1008;Assisted;-;-;2018-09-18;2018-09-21;-;2018-09-30;-;UW_engnr   
+
