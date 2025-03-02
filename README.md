@@ -1,5 +1,8 @@
 # Protein domain boundary prediction based on deep neural networks
 
+### Quick setup and validation of code
+To run the code that evaluates the model on CASP13 simply open `casp13_test.ipynb` and run all cells.
+
 # Code
 The `src/notebooks` directory provides the code used to download data, process data, the code for the implementation of the evaluation metrics, pre-processing functions, post processing functions and neural network implementation.
 The `src/clean` directory provides a clean version of every common function we used for post-processing, pre-processing and evaluation.
